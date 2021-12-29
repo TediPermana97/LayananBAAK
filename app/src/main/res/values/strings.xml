@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">BAAK</string>
+    <string name="url_b3a">http://baak.darmajaya.ac.id/wp-content/uploads/2020/07/4.FM-S-1.10.02-Form-Permohonan-Cuti-Akademik-Mahasiswa-dikonversi.pdf</string>
+    <string name="text_b3">1. Membayar Biaya Cuti AKademik\n2. Aktif Semester Sebelumnya\n3. Mengupload file/scan formulir\n\n*Download Formulir dimenu titik tiga diatas</string>
+    <string name="text_b2">1. Melampirkan Scan/Foto KRS (Semester Berjalan)\n2. Melampirkan Scan/Foto DNS (Semester Terakhir/Semester Aktif)\n3. Melampirkan Scan/Foto Slip BPP (Semester Berjalan)4. Isi dengan menggunakan huruf balok/cetak\n\n* Semua syarat digabung dijadikan 1 file pdf dan upload</string>
+    <string name="text_b4">1. Dinyatakan Cuti Semester Sebelumnya di Sistem\n2. Mengupload file/scan formulir\n\n*Download Formulir dimenu titik tiga diatas</string>
+    <string name="url_b4">http://baak.darmajaya.ac.id/wp-content/uploads/2020/07/4.FM-S-1.10.03-Form-Permohonan-Aktif-Akademik-Mahasiswa-dikonversi.pdf</string>
+    <string name="text_b5">1. Foto/Scan Slip BPP\n2. Foto/Scan KRS Semester Berjalan\n3. Foto/Scan Slip Skripsi/TA\n4. Foto/Scan Slip SKS Semester Berjalan\n\n* Semua syarat digabung dijadikan 1 file pdf dan upload</string>
+    <string name="text_b6">1. Foto/Scan Kartu Rencana Studi (KRS)\n2. Foto/Scan  Rangkuman Nilai Akademik (Asli)\n3. Foto/Scan Slip Pembayaran BPP\n4. Foto/Scan Slip Pembayaran SKS\n5. Foto/Scan Slip Pembayaran Biaya KerjaPraktek\n\n* Semua syarat digabung dijadikan 1 file pdf dan upload</string>
+    <string name="text_b7">1. Foto/Scan Surat bekerja bagi mahasiswa yang pindah malam\n\n* Semua syarat digabung dijadikan 1 file pdf dan upload</string>
+    <string name="text_b8"><![CDATA[1. Foto/Scan Surat permohonan mahasiswa yang ditandatangani Orang Tua/Wali\n2. Foto/Scan Pengumpulan DNS & KRS Asli Pertama s.d Terakhir\n3. Surat Keterangan Bebas Perpustakaan\n4. KTM Asli\n\n* Semua syarat digabung dijadikan 1 file pdf dan upload]]></string>
+    <string name="url_b9">http://baak.darmajaya.ac.id/wp-content/uploads/2020/11/4.FM-S-1.10.10-Form-Permohonan-Surat-Tanda-Lulus-Sementara-STLS.pdf</string>
+    <string name="text_b9">1. Mengupload file/scan formulir\n\n* Download Formulir dimenu titik tiga diatas</string>
+
+
+    <string-array name="email_admin">
+        <item>admin@baak.id</item>
+    </string-array>
+    <string-array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="pembimbing">
+        <item>Abdi Darmawan, S.T., M.T.I</item>
+        <item>Agus Panjaitan, S.E., M.M</item>
+        <item>Agus Rahardi, S.Kom.,MT.TI</item>
+        <item>AK. Yohanson S.Ag.,M.M</item>
+        <item>Amnah, S.Kom.,M.T.I</item>
+        <item>Ananda Sartika Putri</item>
+        <item>Andri Mitrawan, M.M</item>
+        <item>Andri Winata, S.E.,M.Sc</item>
+        <item>Anggalia Wibasuri, S. Kom., M.M</item>
+        <item>Anggi Andriyadi, S.Kom.,M.T.I</item>
+        <item>Anik Irawati, S.E.,M.Sc</item>
+        <item>Anuar sanusi, S.E.,M.Si.,DR</item>
+        <item>Apri Triansyah, S.Kom., M.T.i</item>
+        <item>Ari Widiantoko, S.Kom</item>
+        <item>Arman Suryadi Karim, S.Kom.,M.T.I</item>
+        <item>Aswin, S.E.,M.M</item>
+        <item>Bambang Purwanto, S.E.,M.M</item>
+        <item>Banon Eko Susetyo, Drs.,M.Si</item>
+        <item>Bayu Nugroho, S.Kom</item>
+        <item>Besti Lilyana, S.H</item>
+        <item>Betty Magdalena, S.Pd.,M.M</item>
+        <item>Betty Magdalena, S.Pd.,M.M</item>
+        <item>Bobby Bachry, S.Kom.,M.M.Si</item>
+        <item>Cahyani Pratisti, S.Pi.,MBA</item>
+        <item>Chairani,S.Kom.,M.Eng</item>
+        <item>Dedi Putra, S.E.,M.S.Ak</item>
+        <item>Delli Maria, S.E.,M.Sc</item>
+        <item>Deppi Linda, S.Kom.,M.T.I</item>
+        <item>Dodi Yudo Setyawan, S.Si.,M.T.I</item>
+        <item>Dona Yuliawati, S.Kom.,M.T.I</item>
+        <item>DR. Abshor Marantika, S.E.,M.Si</item>
+        <item>DR. Andi Desfiandi,S.E.,MA</item>
+        <item>Dr. Faurani I Santi Singagerda, S.E., M. Sc</item>
+        <item>Dr. Lukmanul Hakim, SE., M.Si</item>
+        <item>Dr. R.Z Abdul Aziz, M.T</item>
+        <item>Dr. Sri Lestari, S.Kom., M.Cs</item>
+        <item>Edi Pranyoto, S.E.,M.M</item>
+        <item>Edwin Sutadipradja, S.E.,MBA</item>
+        <item>Firmansyah Yunialri Alfian,M.Sc</item>
+        <item>Fitri Agustina, S.E., M.Acc., Akt</item>
+        <item>Fitria, S.T.,M.Kom</item>
+        <item>Halimah, S.Kom.,M.T.I</item>
+        <item>Hariyanto Wibowo. S. Kom, M.T.I</item>
+        <item>Hendra Kurniawan, S.Kom.,M.T.I</item>
+        <item>Herlina, S.E.,M.M</item>
+        <item>Hermanto, S.Kom., M.T.I</item>
+        <item>Indera, S.Kom.,M.T.I</item>
+        <item>Indra Caniago, S.E.,M.Si, Ak</item>
+        <item>Isnandar Agus, S.Pd., M.Kom</item>
+        <item>Ita Fionita, S.E.,M.M</item>
+        <item>Jaka Darmawan, S.E., AK., M.Ak.,CA.,CPAi</item>
+        <item>Jhonizar, S.Si</item>
+        <item>Joko Triloka, S.Kom., M.T.</item>
+        <item>Ketut Agus Sulandre,S.Kom., M.Kom</item>
+        <item>Ketut Artaye, S.Kom., M.T.I</item>
+        <item>Kurnia Fadila, S.E., M. Sc</item>
+        <item>Kusnadi , S.E.,M.S.i</item>
+        <item>Lia Rosmalia, ST., M.Kom</item>
+        <item>Linda Septarina, Dra., M.M</item>
+        <item>M Sahli Romadon, S.Pd</item>
+        <item>M. Rafiq, S.E., M. Si</item>
+        <item>Melda Agarina, S.Kom.,M.T.I</item>
+        <item>Melia Gripin Setiawan, S.Kom., MT</item>
+        <item>Mieke Rahayu, Dra.,M.M</item>
+        <item>Muhamad Ariza Eka Yusendra, S.P.,M.M</item>
+        <item>Muhammad Rafiq, S.E.,M.Si</item>
+        <item>Muhammad Sadat Pulungan, M.M.,M.S.Ak.</item>
+        <item>Muhammad Said Hasibuan, M.Kom</item>
+        <item>Muhammad Saputra, S.E.,M.M</item>
+        <item>Muprihan Thaib, S.Sos.,M.M</item>
+        <item>Neni Purwati, S. Kom., M.T.I</item>
+        <item>Niken Paramitasari, S.E., M.M</item>
+        <item>Nisar, S.Kom., M.T</item>
+        <item>Nolita Yeni Siregar, S.E., Ak</item>
+        <item>Novi Herawadi Sudibyo, S.Kom., M.T.I</item>
+        <item>Novita Sari, Sos.,M.M</item>
+        <item>Nurfiana, S.Kom.,M.Kom</item>
+        <item>Nurjoko, S.Kom.,M.T.I</item>
+        <item>Nursiyanto, S.Kom., M.T.I</item>
+        <item>Ochi Marsella Febriani, S.Kom.,M.T.I</item>
+        <item>Pebrina Swissia, S.E., M.M</item>
+        <item>Puput Budi Wintoro, S.Kom., M.T.I</item>
+        <item>R.Z. Abdul Aziz , Ir., M.T., Dr</item>
+        <item>Rahmalia Syahputri, S.Kom.,M.Eng.Sc</item>
+        <item>Reva Meiliana, SE, M.Acc,AK</item>
+        <item>Ricco Elhando Badri, SEI., ME</item>
+        <item>Rieka Ramadhaniyah, S.E.,M.E.Dev</item>
+        <item>Rio Kurniawan, M.CS</item>
+        <item>Rionaldi Ali,M.T.i</item>
+        <item>Riri Carissa, S.E., MSN</item>
+        <item>Ruki Rizal, S.Kom., M.T.I</item>
+        <item>Sabam Parjuangan, ST., M. kom</item>
+        <item>Septilia Arfida, S.Kom.,M.T.I</item>
+        <item>Sri Karnila, S.Kom.,M.Kom</item>
+        <item>Sri Maryati, SE.,M.Akt</item>
+        <item>Sriyanto, S.Kom.,M.M</item>
+        <item>Stefanus Rumangkit, M.Si</item>
+        <item>Suhendro Yusuf Irianto, Dr.</item>
+        <item>Sulyono , S.Kom., M.T.I</item>
+        <item>Susanti, S.E.,M.M</item>
+        <item>Sushanty Saleh, S.Kom.,M.T.I</item>
+        <item>Sutedi, S.Kom.,M.T.I</item>
+        <item>Suwandi, SE., MM</item>
+        <item>Taufik.,SE.,M.S.Ak	 	 	</item>
+        <item>TM Zaini, S.Kom.,M.Kom</item>
+        <item>Toni Nurhadianto, S.E., M. Sc</item>
+        <item>Tri Wahyuni, S.Kom.,M.T.I</item>
+        <item>Triowali Rosandy, S.Kom., M.T.I</item>
+        <item>Ulfah Tika Saputri, SE.,M.Sc</item>
+        <item>Viola De Yusa, S.E., M.M</item>
+        <item>Wayan Swarte, SE.,M.S.Ak</item>
+        <item>Winda Rika Lestari</item>
+        <item>Winda Rika Lestari, S.E.,M.M</item>
+        <item>Yaumil Khoiriyah</item>
+        <item>Yudistira Ardana, SE., M.Sc</item>
+        <item>Yulmaini, S.Kom.,M.Cs</item>
+        <item>Yunada Arpan, S.E.,M.M</item>
+        <item>Yunda Heningtyas, M.Kom</item>
+        <item>Yuni Arkhiansyah, S.Kom.,M.Kom.</item>
+        <item>Yuni Puspita Sari, S.Kom.,M.T.I</item>
+        <item>Zaidir Jamal, S.T.,M.Eng</item>
+        <item>Zuriana, S.E., M.M</item>
+    </string-array>
+</resources>

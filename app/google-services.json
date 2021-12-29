@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "427073867990",
+    "project_id": "layananbaak",
+    "storage_bucket": "layananbaak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427073867990:android:a735d14f58d8ecffdab977",
+        "android_client_info": {
+          "package_name": "com.example.layananbaak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427073867990-jnp1crq706dvh5ba1hmj0ip7hspqar79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.layananbaak",
+            "certificate_hash": "5416bbb9893caf6c1a72ef124f9a3c052bacf28e"
+          }
+        },
+        {
+          "client_id": "427073867990-9k7nov32vfe2omegckdbqtj6fsjjvbmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamRopW-9wCBoTjx4Bb7GdXjgMXOqgGnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427073867990-9k7nov32vfe2omegckdbqtj6fsjjvbmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
